@@ -1,6 +1,6 @@
-# Sistema de caça-níqueis
+# ![Titulo](https://user-images.githubusercontent.com/62568739/197665583-9b66c77c-f564-40c7-9495-509483aefea4.png)
 
-Um sistema de caça-níqueis simples em textdraw, para acrescentar mais opções para os players dos seu servidor
+Um sistema de caça-níqueis em textdraw simples, para acrescentar mais diversão para os players dos seu servidor
 
 # Includes necessárias: 
 
