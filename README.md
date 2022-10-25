@@ -16,7 +16,7 @@ Um sistema de caça-níqueis em textdraw simples, para acrescentar mais diversã
 
 # Vídeo de amostra
 
-https://www.youtube.com/watch?v=G4q19MVtiF8
+https://youtu.be/5pMKQJPwM5M
 
 # Configurações 
 
