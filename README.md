@@ -22,7 +22,7 @@ https://www.youtube.com/watch?v=G4q19MVtiF8
 
 Crie uma pasta chamada `SlotMachines` dentro da sua `scriptfiles`
 
-Se você quiser adicionar mais objetos, adicione a quantide ao valor já contido em `#define DIALOG_SLOTMACHINE`
+Se você quiser adicionar mais objetos, adicione a quantide ao valor já contido em `#define MAX_SLOTMACHINE`
 
 Para definir o valor mínimo da aposta, altere o valor de `#define MINIMUM_BET`
 
